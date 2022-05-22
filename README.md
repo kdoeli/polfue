@@ -5,8 +5,8 @@
 第一步: 下载代码, 安装依赖
 
 ```shell
-git clone https://github.com/rmlzy/export_jd_read
-cd export_jd_read
+git clone https://github.com/kdoeli/polfue
+cd polfue
 npm i
 npm run start
 ```
